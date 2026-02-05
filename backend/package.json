@@ -1,0 +1,20 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "this is the project only for practice of the wen dev",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "hello",
+    "their"
+  ],
+  "author": "atul tiwari",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "expree": "^2.1.0"
+  }
+}
